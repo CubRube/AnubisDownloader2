@@ -1,0 +1,1 @@
+<?php define('SERVER' , 'localhost');define('DB', 'YW51YmlzZGI');define('USER', 'anubisroot');define('PASSWORD' , 'd2Vyd2Vxc2Q');define('cryptKey' , 'zanubis');define('namefolder', 'c2Zkc2RmYXNkYXNzZGE');
